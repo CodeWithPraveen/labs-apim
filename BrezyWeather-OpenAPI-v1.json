@@ -4,6 +4,12 @@
     "title": "labs-apim",
     "version": "1.0"
   },
+  "servers": [
+    {
+      "url": "https://example.com/api/v1",
+      "description": "Production server"
+    }
+  ],
   "paths": {
     "/Weather": {
       "get": {
