@@ -20,3 +20,6 @@ The BrezyWeather is a simple OpenAPI Specification document used for building AP
 ## Prerequisites
 - Basic understanding of API (HTTP operations, REST, OpenAPI)
 - Familiarity with API Management service in Azure Portal
+
+## Learn more and enroll
+https://www.udemy.com/labs/build-and-manage-apis-with-azure-api-management
